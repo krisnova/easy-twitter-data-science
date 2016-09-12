@@ -1,0 +1,5 @@
+install/anaconda.pkg
+install/jupyter.sh
+easy-twitter-data-science.iml
+.idea
+notebooks/.ipynb_checkpoints
