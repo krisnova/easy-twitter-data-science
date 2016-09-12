@@ -33,7 +33,7 @@ In order to get started we need to install dependencies on your host machine.
 
 # Run the notebook
 
-    make run
+    make launch
 
 # Beginners Guide (Command Line)
 
@@ -53,5 +53,5 @@ Explore the new repository
 
     cd easy-twitter-data-science
     make install-osx
-    make run
+    make launch
 
