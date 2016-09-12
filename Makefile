@@ -1,4 +1,4 @@
-run:
+launch:
 	jupyter notebook notebooks/TwitterExample.ipynb --ip=localhost
 
 install-osx:
