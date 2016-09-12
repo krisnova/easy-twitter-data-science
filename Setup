@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+EXEC="$DIR/install/mac_osx_install.sh"
+
+clear
+echo ""
+echo "[INSTALLER]"
+echo ""
+echo "Easy Twitter Data Science - github.com/kris-nova/easy-twitter-data-science"
+echo ""
+echo "This will take a few minutes to download and finish. Please be patient"
+echo ""
+echo "Author: Kris Childress"
+
+
+/usr/bin/osascript -e "do shell script \"${EXEC}\" with administrator privileges"
