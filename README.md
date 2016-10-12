@@ -6,30 +6,13 @@ The simplest way of getting a hello world example running with the following sta
 
 # Installation
 
- First [Download](https://github.com/kris-nova/easy-twitter-data-science/archive/master.zip) the zip file.
+First [Download](https://github.com/kris-nova/easy-twitter-data-science/archive/master.zip) the zip file.
 
 Double click **Setup** to install the package
 
 Double click **Run** to run the package.
 
 You can now begin playing with twitter data.
-
-
-# Running with Make
-
-In order to get started we need to install dependencies on your host machine.
-
-*OS X*
-
-    make install-osx
-
-*Linux*
-
-    make install-linux
-
-*Windows*
-
-    Unsupported - and never will be
 
 # Run the notebook
 
